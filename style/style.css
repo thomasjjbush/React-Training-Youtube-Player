@@ -1,0 +1,12 @@
+input {
+	display: block;
+	min-width: 300px;
+	margin: 20px auto !important;
+}
+
+.list-group-item {
+	cursor: pointer;
+}
+.list-group-item:hover {
+	background-color: blue;
+}
